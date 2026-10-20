@@ -2,3 +2,4 @@ this is the sample test file
 
 new insert
 new line
+changes to beta branch file
